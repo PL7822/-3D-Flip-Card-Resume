@@ -2,9 +2,14 @@
 
 This is a simple and elegant **3D Flip Card Portfolio** made using **HTML**, **CSS**, and **Font Awesome**. It’s a mini resume card that flips to reveal your **skills** and **social profiles** — perfect for portfolio showcasing!
 
-## 📸 Screenshots
-![Front Side](assets/screenshot1.png)
-![Back Side](Screenshot2025-07-23155854)
+
+## 📸 Preview
+
+### 🔹 Front View
+![Front View](https://github.com/pritamlendale/3d-flip-card-resume/assets/your-username-here/front-image.png)
+
+### 🔹 Back View
+![Back View](https://github.com/pritamlendale/3d-flip-card-resume/assets/your-username-here/back-image.png)
 
 ---
 
