@@ -6,7 +6,7 @@ This is a simple and elegant **3D Flip Card Portfolio** made using **HTML**, **C
 ## 📸 Preview
 
 ### 🔹 Front View
-![Front View](assets/screenshot1.png)
+![Front View](screenshot1.png)
 
 
 ### 🔹 Back View
