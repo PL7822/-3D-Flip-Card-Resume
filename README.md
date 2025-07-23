@@ -6,7 +6,8 @@ This is a simple and elegant **3D Flip Card Portfolio** made using **HTML**, **C
 ## 📸 Preview
 
 ### 🔹 Front View
-![Front View](Screenshot 2025-07-23 155837.png)
+![Front View](assets/screenshot1.png)
+
 
 ### 🔹 Back View
 ![Back View](https://github.com/pritamlendale/3d-flip-card-resume/assets/your-username-here/back-image.png)
