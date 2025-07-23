@@ -4,8 +4,6 @@ This is a simple and elegant **3D Flip Card Portfolio** made using **HTML**, **C
 
 ## 📸 Screenshots
 
-![Screenshot 1](assets/screenshot1.png)
-![Screenshot 2](Screenshot 2025-07-23 155854.png)
 
 ---
 
